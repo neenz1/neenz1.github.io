@@ -1,5 +1,126 @@
 body{
     padding:0;
     margin:0;
-    background-color:green;
+    background-color:white;
+    font-family: 'Raleway', sans-serif;
+}
+.greeting_bar{
+    width:100em;
+    height:3em;
+  background-color: black;
+}
+.text_box{
+    width:10em;
+    height:4em;
+    color:black;
+    font-size: 4em;
+    margin-left:2em;
+    margin-top:3em;
+}
+.mini_bar{
+    width:2em;
+    height:.3em;
+    background-color: black;
+    margin-left:8.3em;
+    margin-top:-17em;
+    margin-bottom:20em;
+}
+.large_black_box1{
+    width:80em;
+    height:50em;
+    background-color: black;
+    color: white;
+    margin: auto;
+    margin-top:-5em;
+    text-align: right;
+}
+.info{
+    width: 50%;
+    float: right;
+    padding-right: 20px;
+    padding-top: 20px;;
+}
+.graphic_design{
+    margin-top:-40em;
+    margin-bottom:10em;
+    color:white;
+    margin-left:75em;
+    font-size:1em;
+}
+.mini_bar2{
+    width:2em;
+    height:.3em;
+    background-color:white;
+    margin-left:81.3em;
+    margin-top:-11.5em;
+}
+.photo{
+    margin-top:12em;
+    margin-bottom:10em;
+    color:white;
+    margin-left:75.6em;
+    font-size:1em; 
+}
+.mini_bar3{
+    width:2em;
+    height:.3em;
+    background-color:white;
+    margin-left:81em;
+    margin-top:-11.5em;
+}
+.web_design{
+    margin-top:12em;
+    margin-bottom:10em;
+    color:white;
+    margin-left:76.5em;
+    font-size:1em; 
+}
+.mini_bar4{
+    width:2em;
+    height:.3em;
+    background-color:white;
+    margin-left:80.5em;
+    margin-top:-11.5em; 
+}
+.about_moi{
+    margin-top:12em;
+    margin-bottom:10em;
+    color:white;
+    margin-left:76.5em;
+    font-size:1em; 
+}
+.mini_bar5{
+    width:2em;
+    height:.3em;
+    background-color:white;
+    margin-left:80.1em;
+    margin-top:-11.5em; 
+}
+a{
+    color: white;
+    text-decoration:none;
+
+}
+a:hover{
+    color:pink;
+}
+.aboutmoi_greeting{
+    width:100em;
+    height:3em;
+  background-color: black;
+}
+.aboutmoi_mini_bar{
+    width:2em;
+    height:.3em;
+    background-color: black;
+    margin-left:2em;
+    margin-top:3em;
+}
+.aboutmoi_hello_textbox{
+    width:10em;
+    height:4em;
+    color:black;
+    font-size: 4em;
+    margin-left:2em;
+    margin-top:3em;
 }
