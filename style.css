@@ -38,7 +38,7 @@ body{
     width: 50%;
     float: right;
     padding-right: 20px;
-    padding-top: 20px;;
+    padding-top: 20px;
 }
 .graphic_design{
     margin-top:-40em;
@@ -102,7 +102,7 @@ a{
 
 }
 a:hover{
-    color:pink;
+    color:#F4CE13;
 }
 .aboutmoi_greeting{
     width:100em;
@@ -113,14 +113,62 @@ a:hover{
     width:2em;
     height:.3em;
     background-color: black;
-    margin-left:2em;
+    margin-left:1.9em;
     margin-top:3em;
 }
 .aboutmoi_hello_textbox{
     width:10em;
     height:4em;
-    color:black;
+    color:#F4CE13;
     font-size: 4em;
-    margin-left:2em;
-    margin-top:3em;
+    margin-left:.4em;
+    margin-top:-1em;
+}
+.aboutmoi_black_box{
+    width:30em;
+    height:30em;
+    background-color: black;
+    color:white;
+    margin-left:58em;
+    margin-top:-5em;
+    text-align:right;
+}
+.aboutmoi_info{
+    width:70%;
+    float:right;
+    padding-right: 20px;
+    padding-top: 50px;
+    font-size:12px;
+}
+.aboutmoi_resume{
+    width:70%;
+    float:right;
+    padding-right: 20px;
+    padding-top: 30px;
+    font-size:15px;
+}
+.aboutmoi_contact{
+    width:70%;
+    float:right;
+    padding-right: 20px;
+    padding-top: 30px;
+    font-size:10px;
+    margin-top:-40px;
+}
+.aboutmoi_mini_bar2{
+    background-color:white;
+    width:1em;
+    height:.3em;
+    margin-left:95%;
+    margin-top:-430px;
+}
+.aboutmoi_mini_bar3{
+    background-color:white;
+    width:1em;
+    height:.3em;
+    margin-left:95%;
+    margin-top:165px;
+}
+.aboutmoi_photo1{
+    
 }
